@@ -1,9 +1,9 @@
-
+<div align="center"> 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=WonHui%20Lee&fontSize=90)
   <br><br><br>
 # #Git
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leewon2&show_icons=true&theme=radical)
-<div align="center"> 
+
 ####  :clipboard: SKill
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
