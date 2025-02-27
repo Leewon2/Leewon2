@@ -17,6 +17,12 @@
 <img src="https://img.shields.io/badge/git-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/leewon2?pet-id=1" width="1000" height="120"/>
+</a>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/leewon2"/>
+</a>
  
 </div>
