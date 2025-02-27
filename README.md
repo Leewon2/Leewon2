@@ -5,6 +5,8 @@
   
 # #Git
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leewon2&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjsgml1205)](https://solved.ac/dnjsgml1205/)
+
 ####  :clipboard: SKill
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
@@ -17,12 +19,10 @@
 <img src="https://img.shields.io/badge/git-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/leewon2?pet-id=1" width="1000" height="120"/>
-</a>
+<br>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/leewon2"/>
+  <img src="https://render.gitanimals.org/farms/{leewon2}"/>
 </a>
  
 </div>
