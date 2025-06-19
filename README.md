@@ -21,6 +21,18 @@
 
 </div>
 
+## 📂 Projects
+
+| 프로젝트 | 설명 |
+|----------|------|
+| ⏱️ [대규모 핫플 웨이팅 서비스](https://github.com/Leewon2/waitless) | kubernetes 배포, resilience4j를 이용한 장애대응, Kafka 비동기 통신 CRUD 백엔드 로직을 구현한 프로젝트 |
+| 🏗 [물류 관리 및 배송 시스템을 위한 MSA 기판 플랫폼](https://github.com/Leewon2/HubRouteSystem) | 다익스트라 알고리즘을 이용한 최단 거리 로직 구현, redis 캐싱, Kafka 비동기 통신, CRUD 백엔드 로직을 구현한 프로젝트 |
+| 🛵 [배달 주문 백엔드 애플리케이션](https://github.com/Leewon2/delivery) | Github Actions, Docker, Nginx를 이용한 무중단 배포, CRUD 백엔드 로직을 구현한 프로젝트 |
+| 🏥 [비급여 정보 조회 플랫폼](https://github.com/Leewon2/anafine) | 공간인덱스를 이용한 DB 최적화, 질병 예측 챗봇을 구현한 프로젝트 |
+| 🧸 [금융 교육 플랫폼](https://github.com/Leewon2/woowahan-bank) | 가족, 미션 관련 백엔드 로직 구현, 로그인, 가족, 미션 등 프론트엔드 기능을 구현한 프로젝트 |
+| 🔨 [온라인 경매 플랫폼](https://github.com/Leewon2/AVOCADO) | 상시 경매 게시판 백엔드 및 프론트엔드 기능을 구현한 프로젝트 |
+| 🏃 [운동 플랫폼](https://github.com/Leewon2/dekendeken) | 게시판, 맞춤형 펫 추천 기능을 구현한 프로젝트 |
+
 
 <br>
 
