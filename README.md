@@ -25,6 +25,7 @@
 
 | 프로젝트 | 설명 |
 |----------|------|
+| 🌾 [농촌 체험 기획 및 제작 지원 플랫폼](https://github.com/Onnongwa/Onnongwa) | Python, Java 기반 트렌드 데이터 수집과 분석을 통해 사용자 맞춤형 농촌 체험 추천 시스템을 구현한 프로젝트 |
 | ⏱️ [대규모 핫플 웨이팅 서비스](https://github.com/Leewon2/waitless) | kubernetes 배포, resilience4j를 이용한 장애대응, Kafka 비동기 통신 CRUD 백엔드 로직을 구현한 프로젝트 |
 | 🏗 [물류 관리 및 배송 시스템을 위한 MSA 기판 플랫폼](https://github.com/Leewon2/HubRouteSystem) | 다익스트라 알고리즘을 이용한 최단 거리 로직 구현, redis 캐싱, Kafka 비동기 통신, CRUD 백엔드 로직을 구현한 프로젝트 |
 | 🛵 [배달 주문 백엔드 애플리케이션](https://github.com/Leewon2/delivery) | Github Actions, Docker, Nginx를 이용한 무중단 배포, CRUD 백엔드 로직을 구현한 프로젝트 |
